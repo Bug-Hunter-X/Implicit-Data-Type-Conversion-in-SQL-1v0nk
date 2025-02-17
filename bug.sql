@@ -1,0 +1,1 @@
+The SQL query uses a function that implicitly converts data types, causing unexpected results. For example, comparing a string column to a numeric value without explicit type casting may lead to inaccurate comparisons.
